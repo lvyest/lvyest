@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=lvyest)](https://github.com/marshallku/gitgarden)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=est2436)](https://solved.ac/est2436)​
 
 <!--
 **lvyest/lvyest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
